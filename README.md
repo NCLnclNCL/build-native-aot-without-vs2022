@@ -4,6 +4,7 @@ compile native without vs2022, only need using batch file to coppy in the first 
 file from vs2022 community
 Run file batch to using
 link download 
+
 mediafire https://www.mediafire.com/file/02f12y2pbujxnzv/compiler_native_aot.rar/file
 
 google drive https://drive.google.com/file/d/1YzxlrRgxscLmiWTyaVWLrgfFInvtjVbR/view?usp=sharing
